@@ -1,2 +1,2 @@
 # dataTest
-data test repo
+data test repo for command test
